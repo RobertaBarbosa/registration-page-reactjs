@@ -274,6 +274,10 @@ a {
 /* RESPONSIVIDADE */
 /*CELULAR*/
 @media only screen and (max-width: 375px) {
+  body {
+    margin-bottom: 2rem;
+  }
+
   .box-text {
     margin-top: 0;
     text-align: center;
